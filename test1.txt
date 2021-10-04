@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is A0D0-2336
 
- Directory of C:\Users\Prathik P B\Desktop\MyProject
-
-10/04/2021  12:53 PM    <DIR>          .
-10/04/2021  12:53 PM    <DIR>          ..
-10/04/2021  12:53 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  346,561,753,088 bytes free
